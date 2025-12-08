@@ -74,13 +74,15 @@
 
       ![image](https://user-images.githubusercontent.com/5977962/192236499-941224d0-4694-4c74-8cb1-95a068e99fda.png)
 
+## [Топология сети](https://github.com/joos-ntw/ntw-diplom/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.md)
+
 2) Заполните [таблицу распределения подсетей и адресов](https://github.com/netology-code/ntw-diplom/blob/main/ip-address-table.xlsx) (по примеру коммутатора "internet"). 
 
       Нужно учёсть возможность добавления пяти новых коммутаторов доступа в ЦО, и открытия трёх новых филиалов:
 
       ![image](https://user-images.githubusercontent.com/5977962/199594168-8d9f3a98-5eed-4438-9b83-53f9b9cd9393.png)
 
-[Таблица ip-address-table](https://github.com/joos-ntw/ntw-diplom/blob/main/configs/ip-address-table.xlsx)
+## [Таблица ip-address-table](https://github.com/joos-ntw/ntw-diplom/blob/main/configs/ip-address-table.xlsx)
 
 3) Настройте на коммутаторах доступа порты для подключения пользовательских устройств и аплинки. Также на пользовательских портах коммутатора следует настроить: 
      * port-security на 3 адреса, 
